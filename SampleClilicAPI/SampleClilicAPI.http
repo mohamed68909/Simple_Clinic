@@ -1,0 +1,6 @@
+@SampleClilicAPI_HostAddress = http://localhost:5188
+
+GET {{SampleClilicAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

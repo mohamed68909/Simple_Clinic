@@ -1,0 +1,15 @@
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\bin\Debug\net8.0\SampleClilicAPIBusinessLayer.deps.json
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\bin\Debug\net8.0\SampleClilicAPIBusinessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\bin\Debug\net8.0\SampleClilicAPIBusinessLayer.pdb
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.AssemblyInfoInputs.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.AssemblyInfo.cs
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\refint\SampleClilicAPIBusinessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.pdb
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\ref\SampleClilicAPIBusinessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleClilicAPIBusinessLayer.csproj.AssemblyReference.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\bin\Debug\net8.0\SampleClilicDataAccessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\bin\Debug\net8.0\SampleClilicDataAccessLayer.pdb
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicAPIBusinessLayer\obj\Debug\net8.0\SampleCl.1D27C5CE.Up2Date

@@ -1,0 +1,14 @@
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\bin\Debug\net8.0\SampleClilicDataAccessLayer.deps.json
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\bin\Debug\net8.0\SampleClilicDataAccessLayer.runtimeconfig.json
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\bin\Debug\net8.0\SampleClilicDataAccessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\bin\Debug\net8.0\SampleClilicDataAccessLayer.pdb
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.AssemblyInfoInputs.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.AssemblyInfo.cs
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\refint\SampleClilicDataAccessLayer.dll
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.pdb
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\SampleClilicDataAccessLayer.genruntimeconfig.cache
+D:\Projects\Sample project ASP.Net Core And EF\SampleClilicDataAccessLayer\obj\Debug\net8.0\ref\SampleClilicDataAccessLayer.dll
