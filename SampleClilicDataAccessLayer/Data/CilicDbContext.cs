@@ -11,12 +11,12 @@ namespace SampleClilicDataAccessLayer.Data
         public CilicDbContext(DbContextOptions<CilicDbContext> options)
             : base(options) { }
 
-        public virtual DbSet<Appointment> Appointments { get; set; }
-        public virtual DbSet<Doctor> Doctors { get; set; }
-        public virtual DbSet<MedicalRecord> MedicalRecords { get; set; }
-        public virtual DbSet<Patient> Patients { get; set; }
-        public virtual DbSet<Payment> Payments { get; set; }
-        public virtual DbSet<Prescription> Prescriptions { get; set; }
+        public  DbSet<Appointment> Appointments { get; set; }
+        public  DbSet<Doctor> Doctors { get; set; }
+        public  DbSet<MedicalRecord> MedicalRecords { get; set; }
+        public DbSet<Patient> Patients { get; set; }
+        public  DbSet<Payment> Payments { get; set; }
+        public  DbSet<Prescription> Prescriptions { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
